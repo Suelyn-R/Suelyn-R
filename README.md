@@ -6,6 +6,8 @@
   
 🌱 Currently, I am a [Break Through Tech Fellow](url) building my technical and professional portfolio. This past summer, I earned a certificate in Machine Learning Foundations from the Program, and I will begin my AI Studio Project in the fall!
 
+🎯 **Fall AI Studio Project:** on the way! 
+
 **🛠 Tech Stack:**  
 **Languages:** Python, C++  
 **Data Science:** Pandas, NumPy, Seaborn, scikit-learn  
