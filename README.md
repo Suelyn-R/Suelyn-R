@@ -1,7 +1,8 @@
 ## Hi, I'm Sue Lyn! 👋
 
-🎓 **Junior at Fordham University, studying Computational Neuroscience and Bioinformatics
-👩‍💼 Passionate about exploring careers in my 3Bs: biotechnology, business, and beauty**!
+🎓** Junior at Fordham University, studying Computational Neuroscience and Bioinformatics**
+
+👩‍💼 **Passionate about exploring careers in my 3Bs: biotechnology, business, and beauty!**
   While my undergraduate studies are medicine-focused, my interdisciplinary interests thrive in creative settings! I am eager to explore my diverse interests in medicine, technology,     and bussiness with a focus on data analystics, business strategy, and market research. I am continuously developing my skills in scientific research and business                        development, and I believe that genuine curiosity is the key to growth and success! Currently, I am a [Break Through Tech Fellow](url) building my technical and professional            portfolio. I am looking to leverage my diverse skills in an internship within my 3Bs listed above and learn from industry professionals. Free free to reach out!
 
 **🛠 Tech Stack:**
