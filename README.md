@@ -4,9 +4,11 @@
 👩‍💼 **Passionate about exploring careers in the 3Bs: biotechnology, business, and beauty!**  
   While my undergraduate studies are medicine-focused, my interdisciplinary interests thrive in creative settings! I am eager to explore my diverse interests in medicine,                 technology, and bussiness with a focus on data analystics, business strategy, and market research. I am continuously developing my skills in scientific research and business            development, and I believe that genuine curiosity is the key to growth and success! I am looking to leverage my diverse skills in an internship within my 3Bs listed above and learn     from industry professionals. Any and all advice is welcome, so feel free to reach out!
   
-🌱 Currently, I am a [Break Through Tech Fellow](url) building my technical and professional portfolio. This past summer, I earned a certificate in Machine Learning Foundations from the Program, and I will begin my AI Studio Project in the fall!
+🌱 Currently, I am a [Break Through Tech Fellow](url) building my technical and professional portfolio. This past summer, I earned a certificate in Machine Learning Foundations from the Program, and I am working on my Fall AI Studio Project!
 
-🎯 **Fall AI Studio Project:** on the way! 
+🎯 **Fall AI Studio Project:** 
+**Company:** [Anote]([url](https://anote.ai/))
+Partnering with Anote to develop retrieval-augmented generation (RAG) models that capture, process, and query multimodal data, including text, image, audio, and video. We use Python, Whisper, OpenCV, and TorchVision, to perform data preprocessing, model testing, and deployment, extracting actionable business insights for healthcare, finance, and legal stakeholders.
 
 **🛠 Tech Stack:**  
 **Languages:** Python, C++  
