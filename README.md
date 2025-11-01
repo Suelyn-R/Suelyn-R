@@ -7,7 +7,7 @@
 🌱 Currently, I am a [Break Through Tech Fellow](url) building my technical and professional portfolio. This past summer, I earned a certificate in Machine Learning Foundations from the Program, and I am working on my Fall AI Studio Project!
 
 🎯 **Fall AI Studio Project:**  
-**Company:** [Anote]([[url](https://anote.ai/)])  
+**Company:** [Anote]([[url])  
 Partnering with Anote to develop retrieval-augmented generation (RAG) models that capture, process, and query multimodal data, including text, image, audio, and video. We use Python, Whisper, OpenCV, and TorchVision, to perform data preprocessing, model testing, and deployment, extracting actionable business insights for healthcare, finance, and legal stakeholders.
 
 **🛠 Tech Stack:**  
